@@ -1,4 +1,3 @@
-import LinkedList.*;
 /*Use LinkedList to do the Stack Operations*/
 public class UC01_CreateStack {
     UC1_CreateSimple_LinkedList object = new UC1_CreateSimple_LinkedList();
